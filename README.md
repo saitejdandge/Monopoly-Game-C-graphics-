@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html prefix="fb: https://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir='ltr'>
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 	<title>How to Play Monopoly: 13 Steps (with Pictures) - wikiHow</title>
