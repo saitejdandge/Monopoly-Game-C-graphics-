@@ -1,4 +1,7 @@
 
+
+<font face="Verdana">
+
 <a name="top"></a></font><p align="center"><font size="5" face="Verdana"><u>Official Monopoly&reg; Game
 Rules</u></font></p>
 
@@ -99,7 +102,7 @@ Monopoly&reg; Rule Book.</font></p>
                   href="#anothershortgame">
                 <font
                   size=2 face="Verdana">ANOTHER GOOD SHORT GAME</font></a></td></tr></table>
-          
+          <font face="Verdana">
           <br clear="left"></font><hr><font face="Verdana"><br><a name="object"></a>
             <b><u>OBJECT</u></b><br><a
             href="#top"><font
@@ -157,7 +160,7 @@ Monopoly&reg; Rule Book.</font></p>
             land. Retaining the dice, throw again and move your token as before.
             If you throw doubles three times in succession, move your token
             immediately to the space marked &quot;<b>In Jail</b>&quot;.<br><br>
-<br>
+</font><br>
             <a name="go"></a><b><u>GO</u></b><br><a href="#top"><font
             size=1>Top of Page</font></a><br><br><font size="2">Each time a player's token
             lands on or passes over <b>GO</b>, whether by throwing the dice or
@@ -378,4 +381,74 @@ when...<br>
             and deals two to each player. Players immediately pay the Bank the
             price of the properties dealt to them.<br><br>
 </font></font>
+<hr>
+
+<p align="center"><font face="Verdana"><b><u>My Monopoly Site</u></b></font></p>
+<div align="center"><center>
+<table border="0">
+    <tr>
+        <td align="center"><font face="Verdana" size="2"><a
+        href="monopoly.htm">Home</a></font></td>
+    </tr>
+    <tr>
+        <td align="center"><font face="Verdana" size="2"><a
+        href="collection.htm">My
+        Collection</a></font></td>
+    </tr>
+    <tr>
+        <td align="center"><font face="Verdana" size="2"><a
+        href="links.htm">Links</a></font></td>
+    </tr>
+    <tr>
+        <td><p align="center"><font face="Verdana" size="2"><a
+        href="buy.htm">Buy Monopoly Sets</a></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td><p align="center"><font face="Verdana" size="2"><a
+        href="rules.htm">Rules</a></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td><p align="center"><font face="Verdana" size="2"><a
+        href="faq.htm">FAQ</a></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><font face="Verdana" size="2"><a
+        href="history.htm">History</a></font></td>
+    </tr>
+    <tr>
+        <td align="center"><font face="Verdana" size="2"><a
+        href="wanted.htm">Wanted</a></font></td>
+    </tr>
+    <tr>
+        <td><p align="center"><font face="Verdana" size="2"><a
+        href="sets.htm">Set Descriptions</a></font></p>
+        </td>
+    </tr>
+<tr>
+        <td><p align="center"><font face="Verdana" size="2"><a
+        href="feedback.htm">Feedback</a></font></p>
+        </td>
+    </tr>
+<tr>
+        <td align="center"><font face="Verdana" size="2"><a href="forsale.htm">My Sets for Sale</a></font></td>
+    </tr>
+<tr>
+        <td align="center"><font face="Verdana" size="2">
+        <a href="countries.htm">Countries and Cities</a></font></td>
+    </tr>
+<tr>
+        <td align="center"><font face="Verdana" size="2">
+        <a href="information.htm">Information</a></font></td>
+    </tr>
+  <tr>
+        <td align="center">
+        <font face="Verdana" size="2">
+        <a href="mailto:richard_wilding@hotmail.com?subject=Your Monopoly Page">E-mail
+        me</a></font></td>
+    </tr>
+</table></center></div>
+
 <hr>
