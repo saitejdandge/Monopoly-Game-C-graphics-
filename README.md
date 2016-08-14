@@ -99,7 +99,7 @@ Monopoly&reg; Rule Book.</font></p>
                   href="#anothershortgame">
                 <font
                   size=2 face="Verdana">ANOTHER GOOD SHORT GAME</font></a></td></tr></table>
-          <font face="Verdana">
+          
           <br clear="left"></font><hr><font face="Verdana"><br><a name="object"></a>
             <b><u>OBJECT</u></b><br><a
             href="#top"><font
@@ -157,7 +157,7 @@ Monopoly&reg; Rule Book.</font></p>
             land. Retaining the dice, throw again and move your token as before.
             If you throw doubles three times in succession, move your token
             immediately to the space marked &quot;<b>In Jail</b>&quot;.<br><br>
-</font><br>
+<br>
             <a name="go"></a><b><u>GO</u></b><br><a href="#top"><font
             size=1>Top of Page</font></a><br><br><font size="2">Each time a player's token
             lands on or passes over <b>GO</b>, whether by throwing the dice or
