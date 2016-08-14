@@ -1,7 +1,4 @@
 
-
-<font face="Verdana">
-
 <a name="top"></a></font><p align="center"><font size="5" face="Verdana"><u>Official Monopoly&reg; Game
 Rules</u></font></p>
 
