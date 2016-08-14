@@ -102,65 +102,7 @@ Monopoly&reg; Rule Book.</font></p>
                   href="#anothershortgame">
                 <font
                   size=2 face="Verdana">ANOTHER GOOD SHORT GAME</font></a></td></tr></table>
-          <font face="Verdana">
-          <br clear="left"></font><hr><font face="Verdana"><br><a name="object"></a>
-            <b><u>OBJECT</u></b><br><a
-            href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">The object of the game is
-            to become the wealthiest player through buying, renting and
-            selling of property.<br><br></font><br>
-            <a name="equipment"></a><b><u>EQUIPMENT</u></b><br><a
-            href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">The equipment consists of a
-            board, 2 dice, tokens, 32 houses and 12 Hotels. There are 16
-            Chance and 16 Community Chest cards, 28 Title Deed card (one for
-            each property), and play money. <br><br></font><br>
-            <a name="preparation"></a><b><u>PREPARATION</u></b><br><a href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">Place the board on a table
-            and put the Chance and Community Chest cards face down on their
-            allotted spaces on the board. Each player chooses one token to
-            represent them while travelling around the board. Each player is
-            given $1500 divided as follows:<br>
-            </font></font>
-            <ul><font face="Verdana" size="2">2 $500's, 2 $100's, 2 $50's, 6 $20's, 5 $10's, 5 $5's, and 5
-              $1's.<br>All remaining money and other equipment go to the
-            Bank.</font></ul><font face="Verdana"><font size="2"><br></font><br>
-            <a name="banker"></a><b><u>BANKER</u></b><br><a href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">Select as Banker a player
-            who will also make a good Auctioneer. A Banker who plays in the game
-            must keep their personal funds separate from those of the
-            Bank.<br>When more than five persons play, the Banker may elect to
-            act only as Banker and Auctioneer.<br><br></font><br>
-            <a name="thebank"></a><b><u>THE BANK</u></b><br><a href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">Besides the Bank's money,
-            the Bank holds the Title Deeds, and the houses and hotels prior to
-            purchase by the players. The Bank pays salaries and bonuses. It
-            sells and auctions properties and hands out the proper Title Deed
-            cards when purchased by a player, it also sells houses and hotels to
-            the players and loans money when required on mortgages.<br>The Bank
-            collects all taxes, fines, loans and interest, and the price of all
-            properties which it sells and auctions. The Bank &quot;never goes broke.&quot;
-            If the Bank runs out of money, the Banker may issue as much as
-            needed by writing on any ordinary paper.<br><br></font><br>
-            <a name="theplay"></a><b><u>THE PLAY</u></b><br><a href="#top"><font
-            size=1>Top of Page</font></a><br><br><font size="2">Starting with the Banker,
-            each player in turn throws the dice. The player with the highest
-            total starts the play. Place your token on the corner marked
-            &quot;<b>GO</b>&quot;, then throw the dice and move your token<br><i>(in the
-            direction of the arrow)</i> the number of spaces indicated by the
-            dice.<br>After you have completed your play, the turn passes to the
-            left. The tokens remain on the spaces occupied and proceed from that
-            point on the player's next turn. Two or more tokens may rest on the
-            same space at the same time. <br>Depending on the space your token
-            reaches, you may be entitled to buy real estate or other properties,
-            or be obliged to pay rent, pay taxes, draw a Chance or Community
-            Chest card, Go To Jail, or etc...<br><br>If you throw doubles, you
-            move your token as usual, the sum of the two dice, and are subject
-            to any privileges or penalties pertaining to the space on which you
-            land. Retaining the dice, throw again and move your token as before.
-            If you throw doubles three times in succession, move your token
-            immediately to the space marked &quot;<b>In Jail</b>&quot;.<br><br>
-</font>
+
             <a name="go"></a><b><u>GO</u></b><br><a href="#top"><font
             size=1>Top of Page</font></a><br><br><font size="2">Each time a player's token
             lands on or passes over <b>GO</b>, whether by throwing the dice or
