@@ -163,6 +163,8 @@ Monopoly&reg; Rule Book.</font></p>
             If you throw doubles three times in succession, move your token
             immediately to the space marked &quot;<b>In Jail</b>&quot;.<br><br>
 </font><br>
+
+
             <a name="go"></a><b><u>GO</u></b><br><a href="#top"><font
             size=1>Top of Page</font></a><br><br><font size="2">Each time a player's token
             lands on or passes over <b>GO</b>, whether by throwing the dice or
@@ -220,7 +222,7 @@ Monopoly&reg; Rule Book.</font></p>
               up your total worth.</i><br><br></font><br>
             <a name="jail"></a><b><u>JAIL </u></b><br><a href="#top"><font
             size="1">Top of Page</font></a><br><br><font size="2">You land in Jail
-when...<br>
+when...<br></a>
             (1)<i> Your token lands on the space marked</i> <b>&quot;Go to
               Jail&quot;,</b><br>(2)<i>  You draw a card marked </i><b>&quot;Go to
               Jail&quot;</b><i> or</i><br>(3)<i>  You throw doubles three times in
